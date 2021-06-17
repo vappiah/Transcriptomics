@@ -1,0 +1,26 @@
+name: bacterial-genomics
+channels:
+  - conda-forge
+  - r
+  - bioconda
+  - defaults
+dependencies:
+  - samtools
+  - bwa
+  - python=3
+  - hisat2
+  - stringtie
+  - bioconductor-biocinstaller
+  - r-ballgown
+  - r-tidyverse
+  - r-devtools
+  - r-dplyr
+  - r-RSkittleBrewer
+  - r-genefilter
+  - pip
+  - pip:
+      - numpy
+      - matplotlib
+      - pandas
+      - biopython
+      - bioinfokit
