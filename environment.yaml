@@ -12,12 +12,11 @@ dependencies:
   - stringtie
   - r
   - bioconductor-biocinstaller
-  - r-ballgown
+  - bioconductor-ballgown
   - r-tidyverse
   - r-devtools
   - r-dplyr
-  - r-RSkittleBrewer
-  - r-genefilter
+  - bioconductor-genefilter
   - pip
   - pip:
       - numpy
