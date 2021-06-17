@@ -1,4 +1,4 @@
-name: bacterial-genomics
+name: rna-seq-analysis
 channels:
   - conda-forge
   - r
