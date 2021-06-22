@@ -10,6 +10,7 @@ dependencies:
   - python=3
   - hisat2
   - stringtie
+  - gffcompare
   - r
   - bioconductor-biocinstaller
   - bioconductor-ballgown
