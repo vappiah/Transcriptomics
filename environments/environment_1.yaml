@@ -1,4 +1,4 @@
-name: rna-seq-analysis
+name: rna-seq
 channels:
   - conda-forge
   - r
