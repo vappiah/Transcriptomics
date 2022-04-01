@@ -1,4 +1,4 @@
-name: rna-seq
+name: rna-seq-analysis
 channels:
   - conda-forge
   - r
@@ -9,6 +9,7 @@ dependencies:
   - bwa
   - python=3
   - hisat2
+  - gffcompare
   - stringtie
   - r
   - bioconductor-biocinstaller
@@ -22,4 +23,6 @@ dependencies:
   - r-pheatmap
   - bioconductor-GenomicRanges
   - bioconductor-genefilter
-  
+      
+     
+
