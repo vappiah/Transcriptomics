@@ -5,3 +5,4 @@ do
 
 wget "$github_page"/$script
 done
+wget https://raw.githubusercontent.com/vappiah/Transcriptomics/main/environments/environment_1.yaml
