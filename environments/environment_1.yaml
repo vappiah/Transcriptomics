@@ -12,6 +12,7 @@ dependencies:
   - gffcompare
   - stringtie
   - r
+  - r-pacman
   - bioconductor-biocinstaller
   - bioconductor-ballgown
   - r-tidyverse
