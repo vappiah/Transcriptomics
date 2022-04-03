@@ -11,7 +11,7 @@ dependencies:
   - hisat2
   - gffcompare
   - stringtie
-  - r
+  - r-base
   - r-pacman
   - bioconductor-biocinstaller
   - bioconductor-ballgown
