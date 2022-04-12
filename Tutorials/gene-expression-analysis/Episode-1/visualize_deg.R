@@ -19,7 +19,6 @@ library(pheatmap)
 library(gplots)
 library(GenomicRanges)
 library(viridis)
-library(cowplot)
 
 
 #lets load the sample information
@@ -91,9 +90,6 @@ myplot=plotTranscripts(ballgown::geneIDs(bg_chrX)[ballgown::geneNames(bg_chrX) =
 print(myplot)
 dev.off()
 #DONE
-
-
-
 
 
 
@@ -178,15 +174,6 @@ dev.off()
 
 
 print("plots have been generated and saved in 'plots directory' ")
-
-
-
-#annotation_col <- data.frame(Group = pheno_data$sex)
-#annotation_col[,1] <- gsub(pattern = "male", replacement = "Male", x = annotation_col[,1])
-#annotation_col[,1] <- gsub(pattern = "female", replacement = "Female", x = annotation_col[,1])
-#my_color=list(
-#sample = c(male = "#5977ff", female = "#f74747"))
-
 
 
 
