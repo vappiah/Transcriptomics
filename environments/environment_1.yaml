@@ -1,0 +1,28 @@
+name: rna-seq
+channels:
+  - conda-forge
+  - r
+  - bioconda
+  - defaults
+dependencies:
+  - samtools
+  - bwa
+  - python=3
+  - hisat2
+  - gffcompare
+  - stringtie
+  - r
+  - bioconductor-biocinstaller
+  - bioconductor-ballgown
+  - r-tidyverse
+  - r-devtools
+  - r-dplyr
+  - r-ggplot2
+  - r-gplots
+  - r-viridis
+  - r-pheatmap
+  - bioconductor-GenomicRanges
+  - bioconductor-genefilter
+      
+     
+
