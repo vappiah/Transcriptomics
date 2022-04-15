@@ -1,6 +1,6 @@
 # RNA Seq Analysis
 
-## Buy Me a Coffee
+## Support My Work
 [Buy Me a Coffee](https://www.buymeacoffee.com/informatician)
 
 ## Gene Expression Analysis
