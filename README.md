@@ -1,3 +1,3 @@
 # rna-seq-analysis-tutorial
 
-#hello world
+Episode 1 https://youtu.be/CAa1g6-3Szc
