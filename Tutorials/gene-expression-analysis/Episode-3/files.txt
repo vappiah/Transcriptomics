@@ -1,0 +1,8 @@
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-3/GSM461176_untreat_single
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-3/GSM461177_untreat_paired
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-3/GSM461178_untreat_paired
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-3/GSM461179_treat_single
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-3/GSM461180_treat_paired
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-3/GSM461181_treat_paired
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-3/GSM461182_untreat_single
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-3/design_tags.tsv
