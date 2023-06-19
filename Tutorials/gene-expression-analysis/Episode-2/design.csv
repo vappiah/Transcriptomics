@@ -1,0 +1,8 @@
+SampleID,Treatment,Sequencing
+GSM461176_untreated_single,untreated,SE
+GSM461177_untreated_paired,untreated,PE
+GSM461178_untreated_paired,untreated,PE
+GSM461179_treated_single,treated,SE
+GSM461180_treated_paired,treated,PE
+GSM461181_treated_paired,treated,PE
+GSM461182_untreated_single,untreated,SE
