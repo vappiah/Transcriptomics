@@ -1,7 +1,7 @@
 # ATTENTION !!!!!!!!!!!!!!!!!!!!!
 # THIS SHOULD BE CORRECTED WHEN WATCHING THE TUTORIAL !!!!!!!!!!!!!!!!!!!!!!!
 
-This command  \
+This command  
 ```
 keep <- rowSums(counts(dds)>10)
 ```
