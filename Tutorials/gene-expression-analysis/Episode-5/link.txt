@@ -1,0 +1,6 @@
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-5/GSM6160812.counts
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-5/GSM6160814.counts
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-5/GSM6160822.counts
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-5/GSM6160813.counts
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-5/GSM6160821.counts
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-5/GSM6160823.counts
