@@ -4,4 +4,4 @@ https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-an
 https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-5/GSM6160813
 https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-5/GSM6160821
 https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-5/GSM6160823
-https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-5/design_tags
+https://github.com/vappiah/Transcriptomics/raw/main/Tutorials/gene-expression-analysis/Episode-5/design_tags.tsv
